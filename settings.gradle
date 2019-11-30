@@ -1,0 +1,2 @@
+include ':app', ':JLog'
+rootProject.name='Libs'
